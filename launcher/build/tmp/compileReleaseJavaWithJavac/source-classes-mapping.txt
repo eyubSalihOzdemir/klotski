@@ -1,0 +1,2 @@
+com/SalihOzdemir/Klotski/BuildConfig.java
+ com.SalihOzdemir.Klotski.BuildConfig
